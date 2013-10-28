@@ -1,0 +1,16 @@
+<h1>列表</h1>
+<a href="<?php echo $this->url('contact-us')?>">联系我们</a>
+<ul class="media-list">
+  	<?php foreach ($contacts as $contact) { ?>
+  		<li class="media">
+			<a class="pull-left" href="#">
+			<img class="media-object" src="http://www.gravatar.com/avatar/<?php echo md5($contact['email'])?>" />
+			</a>
+			<div class="media-body">
+			<h4 class="media-heading"><?php echo $contact['title'] ?></h4>
+			<p><?php echo $contact['content']?></p>
+			</div>
+		</li>
+  	<?php } ?>
+	
+</ul>

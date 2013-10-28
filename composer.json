@@ -1,0 +1,23 @@
+{
+    "name": "billyct/billyct-contactus",
+    "description": "a contact module for zf2",
+    "require": {
+        "zendframework/zendframework": "2.2.*"
+    },
+    "authors": [
+        {
+            "name": "billyct",
+            "email": "billyct2012@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "BillyctContactus": "src/"
+        },
+        "classmap": [
+            "./"
+        ]
+    }
+
+}
