@@ -5,8 +5,8 @@ Zend Framework 2 的联系我们模块,更多内容访问 [54cxy](http://54cxy.c
 
 需要
 -----------
-1.zf2
-3.mongodb
+1. zf2
+3. mongodb
 
 安装
 --------------
