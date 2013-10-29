@@ -1,7 +1,7 @@
 billyct-contact-us-module-zf2
 =============================
 
-Zend Framework 2 的联系我们模块,更多内容访问[54cxy](http://54cxy.com)
+Zend Framework 2 的联系我们模块,更多内容访问 [54cxy](http://54cxy.com)
 
 需要
 -----------
@@ -12,7 +12,7 @@ Zend Framework 2 的联系我们模块,更多内容访问[54cxy](http://54cxy.co
 --------------
 
 ###使用composer安装
-添加    "billyct/billyct-contactus": "dev-master"
+    "billyct/billyct-contactus": "dev-master"
 
 使用
 -------------
